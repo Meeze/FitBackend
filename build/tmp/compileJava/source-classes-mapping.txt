@@ -1,0 +1,20 @@
+de/realmeze/nutrition/service/CaloryService.java
+ de.realmeze.nutrition.service.CaloryService
+de/realmeze/nutrition/model/nutrition/core/Nutrients.java
+ de.realmeze.nutrition.model.nutrition.core.Nutrients
+ de.realmeze.nutrition.model.nutrition.core.Nutrients$NutrientsBuilder
+de/realmeze/nutrition/model/nutrition/breakdown/Carbs.java
+ de.realmeze.nutrition.model.nutrition.breakdown.Carbs
+de/realmeze/nutrition/model/nutrition/breakdown/Fat.java
+ de.realmeze.nutrition.model.nutrition.breakdown.Fat
+de/realmeze/nutrition/model/nutrition/core/FoodProduct.java
+ de.realmeze.nutrition.model.nutrition.core.FoodProduct
+ de.realmeze.nutrition.model.nutrition.core.FoodProduct$FoodProductBuilder
+de/realmeze/test/FoodEntry.java
+ de.realmeze.test.FoodEntry
+ de.realmeze.test.FoodEntry$FoodEntryBuilder
+de/realmeze/nutrition/service/FoodService.java
+ de.realmeze.nutrition.service.FoodService
+de/realmeze/test/Main.java
+ de.realmeze.test.Main
+ de.realmeze.test.Main$1
